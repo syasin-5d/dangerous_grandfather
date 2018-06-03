@@ -7,6 +7,9 @@ python dangerous_grandfather.py
 ### halt
 標準入力待機中に何も入力せずにreturnすると終了。
 ### example
+
+``` shell
+
 % python dangerous_grandfather.py
 challengeする文字列を入力しよう!
 キズナアイ
@@ -20,6 +23,8 @@ challengeする文字列を入力しよう!
 8回目 : ズキズナナ
 9回目 : アイキナア
 10回目 : アイナアナ
+
+```
 
 ## name
 「でんぢゃらすじーさん」チャレンジしたいっていうから dangerous_grandfather.py って名前にしたんだけど、その後任意の文字列チャレンジに仕様変更した。
